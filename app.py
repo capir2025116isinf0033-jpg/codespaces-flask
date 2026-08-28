@@ -9,11 +9,11 @@ def hello_world():
     <html lang="pt-BR">
     <head>
         <meta charset="UTF-8">
-        <title>chau</title>
+        <title>Tchau</title>
     </head>
     <body>
 
-        <h1>Hello</h1>
+        <h1>Trabablho flask</h1>
 
         <button onclick="mostrarMensagem()">Clique aqui</button>
 
