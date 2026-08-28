@@ -9,7 +9,7 @@ def hello_world():
     <html lang="pt-BR">
     <head>
         <meta charset="UTF-8">
-        <title>Hello</title>
+        <title>chau</title>
     </head>
     <body>
 
